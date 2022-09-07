@@ -4,6 +4,18 @@ The Customer Onboarding project includes the entire details for the fresh custom
 Department, Locations, Users, Groups, Roles, Categorization, Resolution details, SLA & Notifications using Import Sets and Transform Maps. It also includes separate
 Requirement Design documents as per the industry best standards. Leverages Import Sets and Transform Map
 
+# Roles / Responsibilities 
+* Used transform map to map the fields between an import set and fields in an existing ServiceNow table.
+* Created a Functional Requirement Specification document (FRS) with teammates to clear up everything that needs to be done.
+* Under the team of 4, we created this Multi-Tenant platform.
+* Created Multi-tenant platform using Domain Seperation.
+* Created SLA definition to progress SLA's, enabling the use of an SLA system for the organization's tasks.
+* Tested all the SLA on the Incident Table to make sure all the requirements are met & function properly.
+* Override all the global notification and SLA definitions.
+* Work on the ServiceNow instance that was created by the team leader.
+* Created data on the excels sheet and import it to ServiceNow using the import set.
+* Tested the instance to make sure all the requirements are met and function correctly.
+
 # Project Requirements 
 * Location – 10  
 * Department – 10  
