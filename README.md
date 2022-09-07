@@ -24,7 +24,7 @@ Requirement Design documents as per the industry best standards. Leverages Impor
 
 # Manual Activities for each table listed
 * SLA – 10 (Response & Resolution for each Priority)
-* Schedule – 24*7, 24*5, 9*3 
+* Schedule – 24x7, 24x5, 9x3 
 * Holidays – Any 2 Dates per Month (Indian Holidays)
 
 # Technologies Used
